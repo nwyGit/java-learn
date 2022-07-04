@@ -1,3 +1,6 @@
+package IntroductiontoJava;
+
+/* exercise 1 */
 class DrawingTriangle {
   public static void drawTriangle(int N) {
     String symbol = "*";
